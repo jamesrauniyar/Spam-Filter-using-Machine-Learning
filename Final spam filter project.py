@@ -5,7 +5,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score
 
 # Load the spam data
-data = pd.read_csv ("C:/Users/Khelendra/Downloads/Final project Spam filter/mail_data1.csv")
+data = pd.read_csv ("Enter Dataset path")
 
 
 
